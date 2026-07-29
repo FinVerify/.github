@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FinVerify/Finverify/main/docs/images/banner.png" alt="FinVerify Banner" width="100%">
+</p>
+
 <br />
 
 # FinVerify
