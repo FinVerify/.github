@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FinVerify/Finverify/tree/main/docs/images/banner.jpg" alt="FinVerify Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Finverify/tree/main/docs/images/banner.jpg" alt="FinVerify Banner" width="100%">
 </p>
 
 <br />
