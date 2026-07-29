@@ -13,7 +13,7 @@ anyone acts on it.
 
 <br />
 
-[**Website**](#) &nbsp;•&nbsp; [**Documentation**](https://github.com/aadityat23/finverify-llm/tree/main/finverify-terminal) &nbsp;•&nbsp; [**Research**](https://github.com/aadityat23/finverify-llm/tree/main/research) &nbsp;•&nbsp; [**Discussions**](https://github.com/aadityat23/finverify-llm/discussions) &nbsp;•&nbsp; [**LinkedIn**](#)
+[**Website**](https://finverifyllm.lovable.app/) &nbsp;•&nbsp; [**Documentation**](https://github.com/FinVerify/Finverify) &nbsp;•&nbsp; [**Research**](https://github.com/FinVerify/Finverify/tree/main/research) &nbsp;•&nbsp; [**Discussions**](https://github.com/FinVerify/Finverify/discussions) &nbsp;•&nbsp; [**LinkedIn**](https://www.linkedin.com/company/finverify)
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/aadityat23/finverify-llm/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-active_development-blue.svg)](#)
@@ -171,11 +171,11 @@ Looking to help build FinVerify itself? Start with the
 
 | | |
 |---|---|
-| 🌐 **Website** | [finverify.dev](#) |
-| 💼 **LinkedIn** | [FinVerify](#) |
-| 📄 **Documentation** | [`finverify-terminal` README](https://github.com/aadityat23/finverify-llm/tree/main/finverify-terminal) |
-| 🐛 **Issues** | [GitHub Issues](https://github.com/aadityat23/finverify-llm/issues) |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/aadityat23/finverify-llm/discussions) |
+| 🌐 **Website** | [finverify.dev](https://finverifyllm.lovable.app/) |
+| 💼 **LinkedIn** | [FinVerify](https://www.linkedin.com/company/finverify) |
+| 📄 **Documentation** | [`finverify-terminal` README](https://github.com/FinVerify/Finverify) |
+| 🐛 **Issues** | [GitHub Issues](https://github.com/FinVerify/Finverify/issues) |
+| 💬 **Discussions** | [GitHub Discussions](http://github.com/FinVerify/Finverify/discussions) |
 
 </div>
 
